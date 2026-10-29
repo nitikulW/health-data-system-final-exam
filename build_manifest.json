@@ -1,0 +1,34 @@
+[
+  {
+    "file": "บท09_เวชระเบียนอิเล็กทรอนิกส์_EMR_EHR_และ_PHR.md",
+    "sha256": "b13f5e3527647bbedb0f767b99fb06376794bf6aa176ffdef62b5d49a603d1f2",
+    "total": 30,
+    "stars_3": 25,
+    "stars_2": 5,
+    "stars_1": 0
+  },
+  {
+    "file": "บท10_ระบบข้อมูลความปลอดภัยของผลิตภัณฑ์สุขภาพ_Pharmacovigilance.md",
+    "sha256": "72236da595fa0c9c9de80aec3bcdef31609d39552bfa229f690f993f5e8f3ee0",
+    "total": 30,
+    "stars_3": 27,
+    "stars_2": 3,
+    "stars_1": 0
+  },
+  {
+    "file": "บท11_ระบบบัญชีข้อมูลยาและรหัสยามาตรฐานไทย_TMT.md",
+    "sha256": "4359a019438813091b7562fee19257009693fa849af3520398b7589ff09c6038",
+    "total": 30,
+    "stars_3": 23,
+    "stars_2": 7,
+    "stars_1": 0
+  },
+  {
+    "file": "บท12_มาตรฐานข้อมูลและการทำงานร่วมกัน_Standards_and_Interoperability.md",
+    "sha256": "54bf2c61f7593baf382da074603277053e1140aed19dea54212897bf97f5ae33",
+    "total": 30,
+    "stars_3": 24,
+    "stars_2": 6,
+    "stars_1": 0
+  }
+]
